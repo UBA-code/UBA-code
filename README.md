@@ -29,7 +29,11 @@
 
 ---
 
-[![ybel-hac's 42 stats](https://badge42.vercel.app/api/v2/clabandng00440flexr86ycgd/stats?cursusId=21&coalitionId=79)](https://github.com/JaeSeoKim/badge42)
+<div align="center">
+    <br clear="both">
+    <img src="https://badge.mediaplus.ma/darkblue/bahbibe"  alt="bahbibe's 42 stats"width="80%"/>
+    <br clear="both">
+</div>
 
 
 
