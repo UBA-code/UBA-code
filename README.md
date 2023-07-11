@@ -36,13 +36,5 @@
 </div>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UBA-code&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UBA-code&layout=column)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [instagram]: https://www.instagram.com/uba_code/
 [linkedin]: https://linkedin.com/in/yassine-belhachmi-b6b402212
