@@ -1,33 +1,3 @@
-### Hi there, I'm UBA
-
-## I'm a Developer, designer and student!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute Open Source projects
-- ⚡ Fun fact: I love to draw and play games
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
 <div align="center">
     <br clear="both">
     <img src="https://badge.mediaplus.ma/colorfulwaves/ybel-hac"  alt="ybel-hac's 42 stats"width="80%"/>
@@ -35,4 +5,33 @@
 </div>
 
 
-[linkedin]: https://www.linkedin.com/in/yassine-belhachmi/
+# Hi there, I'm UBA 👋
+
+Welcome to my GitHub profile! I'm passionate about coding and learning new technologies. Here's a bit about me:
+
+## 🔭 Current Projects
+- 🌐 Working on [learning Golang](https://github.com/UBA-code/golang_learning) - learning Golang for web development.
+
+## 💬 Ask Me About
+- front-end development
+- Best practice
+
+
+## 📫 How to Reach Me
+- Email: [belhachmiyassine@hotmail.com](mailto:belhachmiyassine@hotmail.com)
+- LinkedIn: [Yassine Bel Hachmi](https://www.linkedin.com/in/yassine-belhachmi/)
+
+## ⚡ Fun Facts
+- I love traveling.
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=UBA-code&show_icons=true&theme=tokyonight)
+
+<!-- Optionally, you can include additional sections or remove any that you don't find necessary. -->
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech.
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
+
+<!-- Optionally, add more personal or project-specific badges -->
+
