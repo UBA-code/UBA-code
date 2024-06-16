@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about coding and learning new techn
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech.
 
-![Visitor Count](https://profile-counter.glitch.me/UBA-code/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/UBA-code/badge-it)](https://badges.pufler.dev)
 
 <!-- Optionally, add more personal or project-specific badges -->
 
