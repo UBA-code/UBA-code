@@ -96,6 +96,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/UBA-code/UBA-code/output/snake.svg" alt="Snake animation" />
+<div style="text-align: center;">
+  <img src="https://github.com/UBA-code/UBA-code/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
 
 ###
