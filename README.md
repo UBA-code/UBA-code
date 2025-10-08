@@ -21,6 +21,14 @@
 
 ###
 
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/ybel-hac" alt="ybel-hac's 42 stats" />
+  </a>
+</p>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
